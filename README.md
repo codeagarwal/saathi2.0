@@ -1,16 +1,15 @@
-# sathi
+# Saathi 2.0
+Saathi is a Mobile App made for People who are Visually Impaired. This App is a Compact bunch of Flutter, Firebase and Machine Learning Models.<br>
+<br>This App is made for Imagine Cup 2021 National Finals. This App is a result of 3 very hard working Teammates. 
+<UL>Mayank Agarwal</ul>
+<UL>Ankita Saloni</ul>
+<UL>Arpit Ujjwal</ul>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Main Objective of this App is to help visually imapired people recignize things and help them as a third eye. This App will recognize things using Machine Learning Models and tells user using talkback about the Product.
+### Specialization
+Main Specification of this App is- 
+<ul>Fully Voice Operated</ul>
+<UL>Fast and Strong Model</ul>
+<UL>Useful Datasets</ul>
+<UL>Food Identification</ul>
+<UL>Better UI/UX and many more.</ul>
