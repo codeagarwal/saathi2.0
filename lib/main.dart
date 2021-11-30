@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:sathi/home_page.dart';
+import 'package:sathi/iPhone12ProMax1.dart';
 import 'package:sathi/login_page.dart';
 
 void main() {
