@@ -24,9 +24,9 @@ class _LoginPageState extends State<LoginPage> {
               fit: BoxFit.cover,
             )),
             Text(
-              "Login",
+              "Welcome to Saathi",
               style: TextStyle(
-                  fontSize: 50,
+                  fontSize: 40,
                   color: const Color(0xffff6387),
                   fontWeight: FontWeight.bold),
             ),

@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:sathi/home_page.dart';
-import 'package:sathi/iPhone12ProMax1.dart';
-import 'package:sathi/login_page.dart';
+import 'package:sathi/pages/home_page.dart';
+import 'package:sathi/pages/login_page.dart';
 
 void main() {
   runApp(MyApp());
@@ -13,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: LoginPage(),
+      home: HomePage(),
       debugShowCheckedModeBanner: false,
     );
   }
