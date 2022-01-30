@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:sathi/pages/home_page.dart';
 import 'package:velocity_x/velocity_x.dart';
 import 'package:firebase_core/firebase_core.dart';
 
@@ -78,7 +79,14 @@ class _LoginPageState extends State<LoginPage> {
                   "Login",
                   style: TextStyle(fontSize: 20),
                 ),
-                onPressed: () {},
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => HomePage(),
+                    ),
+                  );
+                },
               ),
             ),
             SizedBox(
